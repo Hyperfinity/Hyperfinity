@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Hyperfinity/Hyperfinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![undefined - Imgur](https://github.com/Hyperfinity/Hyperfinity/assets/73179478/97ad79a1-1c0f-4871-bf93-2221c98fcb8e)
 
